@@ -3,7 +3,7 @@ class TR():
     def __init__(self):
         # Introducing the program
         self.width = 80
-        print("-You have chosen the Right Triangle Maker-".center(self.width))
+        print("-You have chosen the Inverted Right Triangle Maker-".center(self.width))
         print("-**********-\n".center(self.width))
         # Run the main program
         self.main()
@@ -49,7 +49,7 @@ class TR():
 TR()
 
 # Sample Output
-## -You have chosen the Right Triangle Maker-
+## -You have chosen the Inverted Right Triangle Maker-
 ## -**********-
 ## Enter the height of the triangle: 6
 ## ******
