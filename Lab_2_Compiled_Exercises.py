@@ -20,7 +20,7 @@ class Pick:
                                    "Exercise 1: Class Rivera\n"
                                    "Exercise 2: Cube of Integers\n"
                                    "Exercise 3: Hollow Square Maker\n"
-                                   "Exercise 4: Right Triangle Maker\n"
+                                   "Exercise 4: Inverted Right Triangle Maker\n"
                                    "(1, 2, 3, or 4): "))
                 # Select an exercise and run its respective class
                 if choice == 1:
